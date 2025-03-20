@@ -60,7 +60,7 @@
 	    <a href="https://github.com/tweety27">
 	    <img src="./src/main/resources/static/assets/readme/서연프필.jpg" width="120px" alt="로고자리">
 	    <br><br>
-	    👸🏻 김서연<br>(팀원, 막내) <br>(Back-End, Front-end) </a> <br>
+	    👸🏻 김서연<br>(팀원, 막내) <br>(데이터 분석, Back-End, Front-end, 기획) </a> <br>
     </td>
 	</tr> 
 	<tr>
